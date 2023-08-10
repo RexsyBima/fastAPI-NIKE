@@ -1,7 +1,7 @@
 import requests
 
 data = {
-    "id": "Coba-Coba lur",
+    "id": "testing 123",
     "title": "Produk Baru",
     "category": "Fresh",
     "price": "1,000,000",
